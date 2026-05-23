@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contact Management</string>
+    <string name="search_hint">Search by name…</string>
+    <string name="add_contact">Add contact</string>
+    <string name="edit_contact">Edit contact</string>
+    <string name="hint_name">Contact name</string>
+    <string name="hint_phone">Phone number</string>
+    <string name="hint_group">Group (e.g. Family, Work)</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="delete_confirm_title">Delete contact</string>
+    <string name="delete_confirm_message">Delete \"%1$s\"?</string>
+    <string name="empty_list">No contacts yet. Tap + to add one.</string>
+    <string name="no_search_results">No contacts match your search.</string>
+    <string name="error_name_required">Name is required</string>
+    <string name="error_phone_required">Phone number is required</string>
+    <string name="contact_saved">Contact saved</string>
+    <string name="contact_deleted">Contact deleted</string>
+    <string name="label_group">Group: %1$s</string>
+</resources>
